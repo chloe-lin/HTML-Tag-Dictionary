@@ -1,0 +1,39 @@
+HTML Tag Dictionary
+a: makes makes a link to another website
+	attributions: href=
+	example: href=“website link”>website<a>
+	
+h1: header tag, makes the text larger and puts it on a separate line, good for titles
+	attributes: none
+	example: <h1>Chloe</h1>
+	
+h2: header tag, but smaller than h1; goes from h1 to h6; good for subheadings
+	attributions: none
+	example: <h2>Introduction</h2>
+
+img: inserts an image
+	attractions: scr=
+	examples: <img scr=“book.jpg/png”>
+
+li: list item, helps make a bullet or numbered list
+	attributions: none
+	example:   <li>item</li>
+
+ol: ordered list, has numbers as bullet points
+	attributions: none
+	example: <ul>things
+				…
+				… 
+				…</ul>
+				
+p: paragraph, makes a block of words into an actual paragraph
+	attributions: none
+	example: <p>hi this is a cool video</p>
+	
+ul: unordered list, has regular bullet points
+	attributions: none
+	example: <ol>things
+				…
+				… 
+				…</ol>
+
