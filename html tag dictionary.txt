@@ -46,7 +46,7 @@ p: paragraph, makes a block of words into an actual paragraph
 	attributes: none
 	example: <p>hi this is a cool video</p>
 	
-title: makes the website name to a title
+title: controls the tab name
 	attributes: none
 	examples: <head> <title>First Website</title> </head>
 	
