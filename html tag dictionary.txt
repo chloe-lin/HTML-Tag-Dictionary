@@ -1,6 +1,6 @@
 HTML Tag Dictionary
 !DOCTYPE: selects the version of html, the html attribute means you want the most recent version
-	attribution: html
+	attribution: html 
 	example: <!DOCTYPE html>
 	
 a: makes makes a link to another website
