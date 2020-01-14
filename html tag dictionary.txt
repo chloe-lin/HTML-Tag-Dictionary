@@ -1,37 +1,57 @@
 HTML Tag Dictionary
+!DOCTYPE: selects the version of html, the html attribute means you want the most recent version
+	attribution: html
+	example: <!DOCTYPE html>
+	
 a: makes makes a link to another website
-	attributions: href=
+	attributes: href=
 	example: href=“website link”>website<a>
+	
+body: contains all the content of your website; needed to make valid HTML website
+	attributes: none
+	example: <body>welcome back</body>
 	
 h1: header tag, makes the text larger and puts it on a separate line, good for titles
 	attributes: none
 	example: <h1>Chloe</h1>
 	
-h2: header tag, but smaller than h1; goes from h1 to h6; good for subheadings
-	attributions: none
+h2: header tag, but smaller than h1; goes from h1 (biggest) to h6 (smallest); good for subheadings
+	attributes: none 
 	example: <h2>Introduction</h2>
 
+head: thing for your browser to think about when looking ar your webpage; needed to make valid HTML website
+	attributes: none
+	example: <title>First Wesbite</title>
+	
+HTML: marks the beginning and end of your html code; needed to make valid HTML website
+	attributes: none
+	example: <html>hello it's Chloe again</html>
+	
 img: inserts an image
-	attractions: scr=
+	attributes: none
 	examples: <img scr=“book.jpg/png”>
 
 li: list item, helps make a bullet or numbered list
-	attributions: none
+	attribute: none
 	example:   <li>item</li>
 
 ol: ordered list, has numbers as bullet points
-	attributions: none
+	attributes: none
 	example: <ul>things
 				…
 				… 
 				…</ul>
 				
 p: paragraph, makes a block of words into an actual paragraph
-	attributions: none
+	attributes: none
 	example: <p>hi this is a cool video</p>
 	
+title: makes the website name to a title
+	attributes: none
+	examples: <head> <title>First Website</title> </head>
+	
 ul: unordered list, has regular bullet points
-	attributions: none
+	attributes: none
 	example: <ol>things
 				…
 				… 
